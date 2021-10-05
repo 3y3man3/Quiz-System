@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/transact-react-app/static/css/main.a617e044.chunk.css",
+    "main.js": "/transact-react-app/static/js/main.6ef7983b.chunk.js",
+    "main.js.map": "/transact-react-app/static/js/main.6ef7983b.chunk.js.map",
+    "runtime-main.js": "/transact-react-app/static/js/runtime-main.dfdd0498.js",
+    "runtime-main.js.map": "/transact-react-app/static/js/runtime-main.dfdd0498.js.map",
+    "static/js/2.efa432fc.chunk.js": "/transact-react-app/static/js/2.efa432fc.chunk.js",
+    "static/js/2.efa432fc.chunk.js.map": "/transact-react-app/static/js/2.efa432fc.chunk.js.map",
+    "static/js/3.9f7b2dcb.chunk.js": "/transact-react-app/static/js/3.9f7b2dcb.chunk.js",
+    "static/js/3.9f7b2dcb.chunk.js.map": "/transact-react-app/static/js/3.9f7b2dcb.chunk.js.map",
+    "index.html": "/transact-react-app/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/transact-react-app/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.efa432fc.chunk.js.LICENSE.txt": "/transact-react-app/static/js/2.efa432fc.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/transact-react-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfdd0498.js",
+    "static/js/2.efa432fc.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.6ef7983b.chunk.js"
+  ]
+}
